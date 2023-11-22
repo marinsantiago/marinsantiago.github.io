@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "citations/bob_cite.html",
+    "href": "citations/bob_cite.html",
+    "title": "Santiago Marin",
+    "section": "",
+    "text": "BibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Santiago Marin\n\n Australian National University\n santiago &lt;dot&gt; marinardila &lt;at&gt; anu.edu.au\n  Scholar \n  Github \n\n\n\nAbout\nI am currently a Statistics Ph.D. student at the Australian National University (ANU), working under the supervision of Dr. Anton Westveld and Dr. Bronwyn Loong.\n\n\nResearch\nMy research interests span from Bayesian methods and theory to computational aspects of Bayesian Inference, with especial emphasis on researching fast and reliable posterior samplers, Monte Carlo methods, Bayesian variable selection and shrinkage priors, simulation based inference, and uncertainty quantification."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "Talks & Presentations\n\nContributed Conference Presentations, Seminars & Talks\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models. Poster presented at ISBA Bayesian Nonparametrics Networking Workshop. Dec, 2023. Melbourne, Aus.\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models. Poster + Rapid Talk presented at Australian Statistical Conference. Dec, 2023. Wollongong, Aus."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nAs Teaching Assistant\n\nSTAT4030/6030: Generalised Linear Models. Graduate Level Course. The Australian National University. S2 - 2023\n\n\n\nMiscellaneous\n\nASA Datafest 2023: TA for the American Statistical Association DataFest @ ANU. S1 - 2023"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Honors and Awards",
+    "section": "",
+    "text": "Honors and Awards\n\nANU Ph.D. Stipend Scholarship, 2023 – 2026\nANU HDR Fee Remission Merit Scholarship, 2023 – 2026\n\n\n\nTravel Awards\n\nISBA Travel Award: Travel award to attend the ISBA-BNP Networking Workshop, 2023\nSSA Canberra Branch Rego Grant: Travel grant to attend the ASC & OZCOTS conferences, 2023"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nPre-prints & Working Papers\n\nMarin, S., Loong, B. and Westveld, A. (2023). “BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.” arXiv Statistics Methodology arXiv:2311.03644  [article] [citation]"
+  }
+]
