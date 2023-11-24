@@ -21,7 +21,3 @@
   margin-right: auto;
   width: 50%;
 }
-
-.panel-default>.panel-heading+.panel-collapse>.panel-body {
-    border-top-color: transparent;
-}
