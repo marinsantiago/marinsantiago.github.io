@@ -21,18 +21,18 @@
     "text": "Honors & Awards\n\nANU Ph.D. Stipend Scholarship, 2023 – 2026\nANU HDR Fee Remission Merit Scholarship, 2023 – 2026\n\n\n\nTravel Awards\n\nISBA Travel Award: Award to attend the ISBA-BNP Networking Workshop, 2023\nSSA Canberra Branch Rego Grant: Grant to attend the ASC & OZCOTS conferences, 2023"
   },
   {
-    "objectID": "publications/publications.html",
-    "href": "publications/publications.html",
-    "title": "Publications",
+    "objectID": "publications/abstracts/bob_abs.html",
+    "href": "publications/abstracts/bob_abs.html",
+    "title": "Santiago Marin",
     "section": "",
-    "text": "Publications\n\nPre-prints & Working Papers\n\nMarin, S., Loong, B. and Westveld, A. (2023). “BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.” arXiv Statistics Methodology arXiv:2311.03644\n\n\n\narticle citation"
+    "text": "Sampling from the joint posterior distribution of Gaussian mixture models (GMMs) via standard Markov chain Monte Carlo (MCMC) imposes several computational challenges, which have prevented a broader full Bayesian implementation of these models. A growing body of literature has introduced the Weighted Likelihood Bootstrap and the Weighted Bayesian Bootstrap as alternatives to MCMC sampling. The core idea of these methods is to repeatedly compute maximum a posteriori (MAP) estimates on many randomly weighted posterior densities. These MAP estimates then can be treated as approximate posterior draws. Nonetheless, a central question remains unanswered: How to select the distribution of the random weights under arbitrary sample sizes. Thus, we introduce the Bayesian Optimized Bootstrap (BOB), a computational method to automatically select the weights distribution by minimizing, through Bayesian Optimization, a black-box and noisy version of the reverse KL divergence between the Bayesian posterior and an approximate posterior obtained via random weighting. Our proposed method allows for uncertainty quantification, approximate posterior sampling, and embraces recent developments in parallel computing. We show that BOB outperforms competing approaches in recovering the Bayesian posterior, while retaining key theoretical properties from existing methods. BOB’s performance is demonstrated through extensive simulations, along with real-world data analyses.\n\n\n\narticle citation"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "publications/abstracts/bob_abs.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
+    "href": "publications/abstracts/bob_abs.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
+    "title": "Santiago Marin",
     "section": "",
-    "text": "Teaching\n\nAs Graduate Teaching Assistant\n\nSTAT4030/6030: Generalised Linear Models. Graduate Level Course. The Australian National University [S2 - 2023]\n\n\n\nMiscellaneous\n\nASA Datafest: TA for the American Statistical Association DataFest @ ANU  [S1 - 2023]"
+    "text": "Sampling from the joint posterior distribution of Gaussian mixture models (GMMs) via standard Markov chain Monte Carlo (MCMC) imposes several computational challenges, which have prevented a broader full Bayesian implementation of these models. A growing body of literature has introduced the Weighted Likelihood Bootstrap and the Weighted Bayesian Bootstrap as alternatives to MCMC sampling. The core idea of these methods is to repeatedly compute maximum a posteriori (MAP) estimates on many randomly weighted posterior densities. These MAP estimates then can be treated as approximate posterior draws. Nonetheless, a central question remains unanswered: How to select the distribution of the random weights under arbitrary sample sizes. Thus, we introduce the Bayesian Optimized Bootstrap (BOB), a computational method to automatically select the weights distribution by minimizing, through Bayesian Optimization, a black-box and noisy version of the reverse KL divergence between the Bayesian posterior and an approximate posterior obtained via random weighting. Our proposed method allows for uncertainty quantification, approximate posterior sampling, and embraces recent developments in parallel computing. We show that BOB outperforms competing approaches in recovering the Bayesian posterior, while retaining key theoretical properties from existing methods. BOB’s performance is demonstrated through extensive simulations, along with real-world data analyses.\n\n\n\narticle citation"
   },
   {
     "objectID": "talks.html",
@@ -42,10 +42,31 @@
     "text": "Talks & Presentations\n\nContributed Conference Presentations, Seminars & Talks\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.\n\nPoster presented at ISBA Bayesian Nonparametrics Networking Workshop. Dec, 2023. Melbourne, Australia\nPoster + Rapid Talk presented at Australian Statistical Conference. Dec, 2023. Wollongong, Australia"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nAs Graduate Teaching Assistant\n\nSTAT4030/6030: Generalised Linear Models. Graduate Level Course. The Australian National University [S2 - 2023]\n\n\n\nMiscellaneous\n\nASA Datafest: TA for the American Statistical Association DataFest @ ANU  [S1 - 2023]"
+  },
+  {
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nPre-prints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton Westveld  arXiv, 2023.\n\n\n\narticle citation"
+  },
+  {
     "objectID": "publications/citations/bob_cite.html",
     "href": "publications/citations/bob_cite.html",
     "title": "Santiago Marin",
     "section": "",
-    "text": "BibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+    "text": "@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+  },
+  {
+    "objectID": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
+    "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
+    "title": "Santiago Marin",
+    "section": "",
+    "text": "@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
   }
 ]
