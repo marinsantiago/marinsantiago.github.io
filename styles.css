@@ -36,3 +36,7 @@
 .no_underline h3 {
   border-bottom: 0;
 }
+
+svg {
+  color : "red";
+}
