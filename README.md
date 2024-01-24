@@ -1,4 +1,4 @@
-Source code for Santiago's personal website. 
+Source code for [Santiago's personal website](https://marinsantiago.github.io/). 
 
 ### Acknowledgments
 
