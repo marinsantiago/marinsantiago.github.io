@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Australian National University\n santiago &lt;dot&gt; marinardila &lt;at&gt; anu.edu.au\n  Scholar    GitHub"
-  },
-  {
     "objectID": "index.html#santiago-marin",
     "href": "index.html#santiago-marin",
     "title": "About",
-    "section": "",
-    "text": "Australian National University\n santiago &lt;dot&gt; marinardila &lt;at&gt; anu.edu.au\n  Scholar    GitHub"
+    "section": "Santiago Marin",
+    "text": "Santiago Marin\n\n\n  Scholar    GitHub"
   },
   {
     "objectID": "awards.html",
@@ -54,5 +47,12 @@
     "title": "Santiago Marin",
     "section": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models",
     "text": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Santiago Marin",
+    "section": "",
+    "text": "Santiago Marin\n\n\n  Scholar    GitHub \n\n\n\nAbout\nI am currently a Statistics Ph.D. student at the Australian National University (ANU), working under the supervision of Dr. Anton Westveld and Dr. Bronwyn Loong.\n\n\nResearch\nI like to approximate posterior distributions! More precisely, my research interests span from Bayesian methods and theory to computational aspects of Bayesian Analysis, with particular emphasis on fast and reliable posterior samplers, Monte Carlo methods, Bayesian variable selection and shrinkage priors, simulation-based inference, and uncertainty quantification.\nI am always open to having a chat or collaborating, especially in the areas of Bayesian methods and computation, so feel free to contact me. I can best be reached through email.\nIf you ever visit ANU, please pop in and say hi!\n\n\nContact\n Australian National University\n santiago &lt;dot&gt; marinardila &lt;at&gt; anu.edu.au"
   }
 ]
