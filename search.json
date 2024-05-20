@@ -25,7 +25,7 @@
     "href": "talks.html",
     "title": "Talks & Presentations",
     "section": "",
-    "text": "Talks & Presentations\n\nContributed Conference Presentations & Talks\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.\n\nPoster presented at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presented at 2nd ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + Short Talk presented at Australian Statistical Conference. Wollongong, Australia, December 2023"
+    "text": "Talks & Presentations\n\nContributed Conference Presentations & Talks\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models.\n\nPoster presented at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presented at 2nd ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + Short Talk presented at Australian Statistical Conference. Wollongong, Australia, December 2023"
   },
   {
     "objectID": "teaching.html",
@@ -47,5 +47,12 @@
     "title": "Santiago Marin",
     "section": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models",
     "text": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n      year          = {2024},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+  },
+  {
+    "objectID": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-uncertainty-quantification-in-gaussian-mixture-models",
+    "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-uncertainty-quantification-in-gaussian-mixture-models",
+    "title": "Santiago Marin",
+    "section": "BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models",
+    "text": "BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n      year          = {2024},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
   }
 ]
