@@ -11,7 +11,7 @@
     "href": "awards.html",
     "title": "Honors & Awards",
     "section": "",
-    "text": "Honors & Awards\n\nBest Poster Award, Bayes on the Beach, February 2024\nANU Ph.D. Stipend Scholarship, 2023 – 2026\nANU HDR Fee Remission Merit Scholarship, 2023 – 2026\n\n\n\nTravel Awards\n\nISBA Travel Award: Award to attend the ISBA-BNP Networking Workshop, December 2023\nSSA Canberra Branch Rego Grant: Grant to attend the ASC & OZCOTS conferences, December 2023"
+    "text": "Honors & Awards\n\nBest Poster Award, Bayes on the Beach, February 2024\nPh.D. Stipend Scholarship, Australian National University, 2023 – 2026\nHDR Fee Remission Merit Scholarship, Australian National University, 2023 – 2026\nChancellor’s Letter of Commendation, Australian National University, 2021\n\n\n\nTravel Awards\n\nISBA Travel Award: Award to attend the ISBA-BNP Networking Workshop, December 2023\nSSA Canberra Branch Rego Grant: Grant to attend the ASC & OZCOTS conferences, December 2023"
   },
   {
     "objectID": "publications/abstracts/bob_abs.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
@@ -25,7 +25,7 @@
     "href": "talks.html",
     "title": "Talks & Presentations",
     "section": "",
-    "text": "Talks & Presentations\n\nContributed Conference Presentations & Talks\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.\n\nPoster presented at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presented at ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + Short Talk presented at Australian Statistical Conference. Wollongong, Australia, December 2023"
+    "text": "Talks & Presentations\n\nContributed Conference Presentations & Talks\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models.\n\nPoster presented at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presented at 2nd ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + Short Talk presented at Australian Statistical Conference. Wollongong, Australia, December 2023"
   },
   {
     "objectID": "teaching.html",
@@ -39,13 +39,13 @@
     "href": "publications/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\n\nPre-prints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton Westveld  arXiv, 2023\n\n\n\narticle citation"
+    "text": "Publications\n\nPre-prints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024\n\n\n\narticle citation"
   },
   {
     "objectID": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
     "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-with-applications-to-gaussian-mixture-models",
     "title": "Santiago Marin",
     "section": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models",
-    "text": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton Westveld},\n      year          = {2023},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+    "text": "BOB: Bayesian Optimized Bootstrap with Applications to Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n      year          = {2024},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
   }
 ]
