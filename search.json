@@ -18,7 +18,7 @@
     "href": "publications/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\n\nPreprints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024\n\n\n\narticle citation"
+    "text": "Publications\n\nPreprints & Working Papers\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024  \n\n\n\narticle citation\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024  \n\n\n\narticle citation"
   },
   {
     "objectID": "teaching.html",
@@ -40,5 +40,12 @@
     "title": "Santiago Marin",
     "section": "BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models",
     "text": "BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models\n\nBibTeX citation:\n@misc{marin2023bob,\n      title         = {BOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models}, \n      author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n      year          = {2024},\n      eprint        = {2311.03644},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
+  },
+  {
+    "objectID": "publications/citations/lasso_bnp_cite.html#adaptive-shrinkage-with-a-nonparametric-bayesian-lasso",
+    "href": "publications/citations/lasso_bnp_cite.html#adaptive-shrinkage-with-a-nonparametric-bayesian-lasso",
+    "title": "Santiago Marin",
+    "section": "Adaptive Shrinkage with a Nonparametric Bayesian Lasso",
+    "text": "Adaptive Shrinkage with a Nonparametric Bayesian Lasso\n\nBibTeX citation:\n@misc{marin2024adaptive,\n      title         = {Adaptive Shrinkage with a Nonparametric Bayesian Lasso},\n      author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n      year          = {2024},\n      eprint        = {2411.08262},\n      archivePrefix = {arXiv},\n      primaryClass  = {stat.ME}\n}"
   }
 ]
