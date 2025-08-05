@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Santiago Marin</title>
+<title>academic_map – Santiago Marin</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -64,6 +64,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="site_libs/htmltools-fill-0.5.8/fill.css" rel="stylesheet">
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -87,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -130,46 +140,22 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="column-sidebar">
-
+<section id="my-academic-travel-map" class="level1">
+<h1>My Academic Travel Map</h1>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-3e154e26f6575b55f2c0" style="width:672px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-3e154e26f6575b55f2c0">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[-37.8774,145.045,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Monash University, Melbourne, Australia",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-34.4053,150.8778,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"University of Wollongong, Wollongong, Australia",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-28.001,153.4295,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Gold Coast, Australia",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-35.2813,149.1183,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Australian National University, Canberra, Australia",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-34.8111,138.6195,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"University of South Australia, Adelaide, Australia",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[1.2976,103.7767,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"National University of Singapore, Singapore",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"setView":[[1,1],1,[]],"limits":{"lat":[-37.8774,1.2976],"lng":[103.7767,153.4295]}},"evals":[],"jsHooks":[]}</script>
 </div>
-<div class="column-body">
-<p><img src="assets/img/avatar2.jpg" class="center--circular--square" style="height: 12.5em; width: 12.5em;"> <!-- Write your comments here --> <!-- <img src="img/avatar.jpg" style="height: 15em; width: 15em;"/> --></p>
-<section id="santiago-marin" class="level2 centering">
-<h2 class="centering" data-anchor-id="santiago-marin">Santiago Marin</h2>
-<!-- <h3> &ensp; &nbsp; &nbsp; Santiago Marin </h3> -->
-<center>
-<a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;hl=en&amp;user=rKrYoV0AAAAJ" type="button" class="btn btn-outline-success"> <i class="bi bi-google"></i> <span class="about-link-text"><strong>Scholar</strong></span> </a> <a href="https://github.com/marinsantiago" type="button" class="btn btn-outline-success"> <i class="bi bi-github"></i> <span class="about-link-text"><strong>GitHub</strong></span> </a>  <a href="https://orcid.org/0009-0006-0086-3721" type="button" class="btn btn-outline-success"> <i class="ai ai-orcid"></i> <span class="about-link-text"><strong>ORCiD</strong></span> </a>
-</center>
-</section>
-<section id="about" class="level1">
-<h1>About</h1>
-<p>I am currently a Statistics Ph.D.&nbsp;student at the <a href="https://rsfas.anu.edu.au/academic-areas/statistics" class="about-link">Australian National University</a> (ANU), working under the supervision of Dr.&nbsp;<a href="https://cbe.anu.edu.au/about/staff-directory/dr-bronwyn-loong" class="about-link">Bronwyn Loong</a>, Dr.&nbsp;<a href="https://cbe.anu.edu.au/about/staff-directory/dr-anton-westveld" class="about-link">Anton Westveld</a>, and Prof.&nbsp;<a href="https://cbe.anu.edu.au/about/staff-directory/professor-michael-martin" class="about-link">Michael Martin</a>.</p>
-</section>
-<section id="research" class="level1">
-<h1>Research</h1>
-<p>I like to approximate posterior distributions! More precisely, my research interests span from Bayesian methods and theory to computational aspects of Bayesian Analysis, with particular emphasis on Bayesian Nonparametrics, Monte Carlo and Markov chain Monte Carlo methods, Bayesian variable selection and shrinkage priors, Probabilistic Machine Learning, simulation-based inference, and uncertainty quantification.</p>
-<p>Please feel free to kindly contact me. I can best be reached through email. See below for my <a href="./index.html#sec-contact">contact details</a>. If you ever visit ANU, please pop in and say hi!</p>
-<p>You can also check my <a href="./academic_map.html">academic travel map</a>!</p>
-</section>
-<section id="sec-contact" class="level1">
-<h1>Contact</h1>
-<p><i class="bi bi-envelope"></i> santiago &lt;dot&gt; marinardila &lt;at&gt; anu.edu.au</p>
-<p><a href="https://orcid.org/0009-0006-0086-3721"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16"> https://orcid.org/0009-0006-0086-3721 </a></p>
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><i class="bi bi-buildings"></i> Australian National University</p>
-<div class="google-map">
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.994890192292!2d149.11832379999998!3d-35.281253299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d47099a506b%3A0xf8bb53336f15b050!2sThe%20Australian%20National%20University!5e0!3m2!1sen!2sus!4v1722612654366!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-</div>
-</section>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
