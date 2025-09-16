@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html#santiago-marin",
-    "href": "index.html#santiago-marin",
-    "title": "About",
-    "section": "Santiago Marin",
-    "text": "Santiago Marin\n\n\n  Scholar    GitHub     ORCiD"
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "Talks & Presentations\n\nAcademic Travel Map\n\nThis is my academic travel map!\n\n\n\nConference Presentations & Talks\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso\n\nPoster presentation at BayesComp 2025. Singapore, June 2025\n\nDevelopments in Scalable Posterior Sampling through Random Weighting\n\n\nInvited\n\noral presentation at the 31st Conference of The International Environmetrics Society. Adelaide, Australia, December 2024\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models\n\nContributed oral presentation at the 3rd ISBA Bayesian Nonparametrics Networking Workshop. Singapore, August 2024\nPoster presentation at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presentation at the 2nd ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + short oral presentation at the Australian Statistical Conference. Wollongong, Australia, December 2023"
   },
   {
     "objectID": "awards.html",
@@ -35,13 +35,6 @@
     "text": "As Teaching Assistant\n\nSTAT6016: Introduction to Bayesian Data Analysis. Graduate level course. Australian National University  [S2–2025]\n\n\n\n\nPrevious Teaching\n\nAs Teaching Assistant\n\nSTAT8140: Statistical Learning. Graduate level course. Australian National University  [S1–2025]\nSTAT3040: Statistical Learning. Undergraduate level course. Australian National University  [S1–2024]\nSTAT6030: Generalised Linear Models. Graduate level course. Australian National University  [S2–2023]\n\n\n\nMiscellaneous\n\nASA Datafest: Teaching Assistant for the American Statistical Association DataFest @ ANU  [S1–2023]"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks & Presentations",
-    "section": "",
-    "text": "Talks & Presentations\n\nConference Presentations & Talks\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso\n\nPoster presentation at BayesComp 2025. Singapore, June 2025\n\nDevelopments in Scalable Posterior Sampling through Random Weighting\n\n\nInvited\n\noral presentation at the 31st Conference of The International Environmetrics Society. Adelaide, Australia, December 2024\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models\n\nContributed oral presentation at the 3rd ISBA Bayesian Nonparametrics Networking Workshop. Singapore, August 2024\nPoster presentation at Bayes on the Beach. Gold Coast, Australia, February 2024\nPoster presentation at the 2nd ISBA Bayesian Nonparametrics Networking Workshop. Melbourne, Australia, December 2023\nPoster + short oral presentation at the Australian Statistical Conference. Wollongong, Australia, December 2023\n\n\n\n\nAcademic Travel Map\nYou can also check my academic travel map!"
-  },
-  {
     "objectID": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-uncertainty-quantification-in-gaussian-mixture-models",
     "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-uncertainty-quantification-in-gaussian-mixture-models",
     "title": "Santiago Marin",
@@ -51,8 +44,15 @@
   {
     "objectID": "academic_map.html",
     "href": "academic_map.html",
-    "title": "My Academic Travel Map",
+    "title": "My Academic Travel Map 🛩",
     "section": "",
-    "text": "My Academic Travel Map\n\n\n\n\n\n\n\n\nNote: The above map pinpoints the places where I have participated in seminars, conferences, workshops, and other academic activities since beginning my PhD."
+    "text": "My Academic Travel Map 🛩\n\n\n\n\n\n\n\n\nNote: The above map pinpoints the places where I have participated in seminars, conferences, workshops, and other academic activities since beginning my PhD."
+  },
+  {
+    "objectID": "index.html#santiago-marin",
+    "href": "index.html#santiago-marin",
+    "title": "About",
+    "section": "Santiago Marin",
+    "text": "Santiago Marin\n\n\n  Scholar    GitHub     ORCiD"
   }
 ]
