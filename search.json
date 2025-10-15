@@ -11,7 +11,7 @@
     "href": "software/software.html",
     "title": "Software </> 💾",
     "section": "",
-    "text": "Software &lt;/&gt; 💾\n\nR packages\nMost of my methods are available as R packages. This is a selection of them.\n\n\n\n\n\n\n\n\n\nbnplasso"
+    "text": "Software &lt;/&gt; 💾\n\nR packages\nMost of my methods are available as R packages. This is a selection of them."
   },
   {
     "objectID": "academic_map.html",
@@ -46,7 +46,7 @@
     "href": "publications/publications.html",
     "title": "Publications 📚",
     "section": "",
-    "text": "Publications 📚\n\nPeer-reviewed Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Santiago Marin, Bronwyn Loong and Anton H. Westveld  Journal of Computational and Graphical Statistics, 2025+  doi:10.1080/10618600.2025.2572327  article citation\n\n\n\nPreprints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024  article citation"
+    "text": "Publications 📚\n\nPeer-reviewed Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Santiago Marin, Bronwyn Loong and Anton H. Westveld  Journal of Computational and Graphical Statistics, 2025+  doi:10.1080/10618600.2025.2572327   article citation\n\n\n\nPreprints & Working Papers\n\nBOB: Bayesian Optimized Bootstrap for Uncertainty Quantification in Gaussian Mixture Models  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2024  article citation"
   },
   {
     "objectID": "publications/citations/lasso_bnp_cite.html#adaptive-shrinkage-with-a-nonparametric-bayesian-lasso",
