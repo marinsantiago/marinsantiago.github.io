@@ -25,7 +25,7 @@
     "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-approximate-posterior-sampling-in-gaussian-mixture-models",
     "title": "Santiago Marin",
     "section": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔",
-    "text": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔\n\nBibTeX citation:\n@article{marin_bob,\n  title   = {BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Statistics and Computing},\n  volume  = {36},\n  pages   = {14},\n  year    = {2026},\n  doi     = {10.1007/s11222-025-10763-y}\n}"
+    "text": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔\n\nBibTeX citation:\n@article{marin_bob,\n  title   = {{BOB}: {B}ayesian optimized bootstrap for approximate posterior sampling in {G}aussian mixture models},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Statistics and Computing},\n  volume  = {36},\n  pages   = {14},\n  year    = {2026},\n  doi     = {10.1007/s11222-025-10763-y}\n}"
   },
   {
     "objectID": "talks.html",
@@ -53,7 +53,7 @@
     "href": "publications/citations/lasso_bnp_cite.html#adaptive-shrinkage-with-a-nonparametric-bayesian-lasso",
     "title": "Santiago Marin",
     "section": "Adaptive Shrinkage with a Nonparametric Bayesian Lasso 📔",
-    "text": "Adaptive Shrinkage with a Nonparametric Bayesian Lasso 📔\n\nBibTeX citation:\n@article{marin_bnplasso,\n  title   = {Adaptive Shrinkage with a Nonparametric Bayesian Lasso},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Journal of Computational and Graphical Statistics},\n  year    = {2025},\n  doi     = {10.1080/10618600.2025.2572327}\n}"
+    "text": "Adaptive Shrinkage with a Nonparametric Bayesian Lasso 📔\n\nBibTeX citation:\n@article{marin_bnplasso,\n  title   = {Adaptive Shrinkage with a Nonparametric {B}ayesian Lasso},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Journal of Computational and Graphical Statistics},\n  year    = {2025},\n  doi     = {10.1080/10618600.2025.2572327}\n}"
   },
   {
     "objectID": "awards.html",
