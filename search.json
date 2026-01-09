@@ -4,7 +4,7 @@
     "href": "publications/publications.html",
     "title": "Publications 📚",
     "section": "",
-    "text": "Publications 📚\n\n\nPeer-reviewed Journal Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Marin, S., Loong, B. and Westveld, A. H. (2025+)  Journal of Computational and Graphical Statistics    article citation\nBOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models  Marin, S., Loong, B. and Westveld, A. H. (2026)  Statistics and Computing, 36, 14    article citation\n\n\n\nPreprints & Working Papers\n\nBayesian nonparametric modeling of dynamic pollution clusters through an autoregressive logistic-beta Stirling-gamma process  Santiago Marin, Bronwyn Loong and Anton H. Westveld  arXiv, 2026  article citation"
+    "text": "Publications 📚\n\n\nPeer-reviewed Journal Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Marin, S., Loong, B. and Westveld, A. H. (2025+)  Journal of Computational and Graphical Statistics    article citation\nBOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models  Marin, S., Loong, B. and Westveld, A. H. (2026)  Statistics and Computing, 36, 14    article citation\n\n\n\nPreprints & Working Papers\n\nBayesian nonparametric modeling of dynamic pollution clusters through an autoregressive logistic-beta Stirling-gamma process  Marin, S., Loong, B. and Westveld, A. H. (2026)  arXiv, 2601.04625  article citation"
   },
   {
     "objectID": "software/software.html",
@@ -61,12 +61,5 @@
     "title": "Honors & Awards 🎉",
     "section": "",
     "text": "Best Poster Award, Bayes on the Beach, February 2024\nPh.D. Stipend Scholarship, Australian National University, 2023 – 2026\nHDR Fee Remission Merit Scholarship, Australian National University, 2023 – 2026\nChancellor’s Letter of Commendation, Australian National University, 2021\n\n\n\nTravel Awards 🥳\n\nInternational Society for Bayesian Analysis (ISBA) Travel Award:\n\nAward to attend BayesComp 2025, Singapore, June 2025\nAward to attend the 3rd ISBA-BNP Networking Workshop, Singapore, August 2024\nAward to attend the 2nd ISBA-BNP Networking Workshop, Melbourne, Australia, December 2023\n\nStatistical Society of Australia (SSA) Student Registration Grant:\n\nGrant to attend the 31st TIES conference, Adelaide, Australia, December 2024\nGrant to attend the ASC & OZCOTS conferences, Wollongong, Australia, December 2023"
-  },
-  {
-    "objectID": "index.html#santiago-marin",
-    "href": "index.html#santiago-marin",
-    "title": "About",
-    "section": "Santiago Marin",
-    "text": "Santiago Marin\n\n\n  Scholar    GitHub     ORCiD"
   }
 ]
