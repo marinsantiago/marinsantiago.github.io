@@ -32,7 +32,7 @@
     "href": "publications/publications.html",
     "title": "Publications 📚",
     "section": "",
-    "text": "Publications 📚\n\n\nPeer-reviewed Journal Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Marin, S., Loong, B. and Westveld, A. H. (2025+)  Journal of Computational and Graphical Statistics    article citation\nBOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models  Marin, S., Loong, B. and Westveld, A. H. (2026)  Statistics and Computing, 36, 14    article citation\n\n\n\nPreprints & Working Papers\n\nBayesian nonparametric modeling of dynamic pollution clusters through an autoregressive logistic-beta Stirling-gamma process  Marin, S., Loong, B. and Westveld, A. H. (2026)  arXiv, 2601.04625  article citation"
+    "text": "Publications 📚\n\n\nPeer-reviewed Journal Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Marin, S., Loong, B. and Westveld, A. H. (2026+)  Journal of Computational and Graphical Statistics    article citation\nBOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models  Marin, S., Loong, B. and Westveld, A. H. (2026)  Statistics and Computing, 36(1), 14    article citation\n\n\n\nPreprints & Working Papers\n\nBayesian nonparametric modeling of dynamic pollution clusters through an autoregressive logistic-beta Stirling-gamma process  Marin, S., Loong, B. and Westveld, A. H. (2026+)  arXiv, 2601.04625  article citation"
   },
   {
     "objectID": "teaching.html",
@@ -53,7 +53,7 @@
     "href": "publications/citations/bob_cite.html#bob-bayesian-optimized-bootstrap-for-approximate-posterior-sampling-in-gaussian-mixture-models",
     "title": "Santiago Marin",
     "section": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔",
-    "text": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔\n\nBibTeX citation:\n@article{marin_bob,\n  title   = {{BOB}: {B}ayesian optimized bootstrap for approximate posterior sampling in {G}aussian mixture models},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Statistics and Computing},\n  volume  = {36},\n  pages   = {14},\n  year    = {2026},\n  doi     = {10.1007/s11222-025-10763-y}\n}"
+    "text": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models 📔\n\nBibTeX citation:\n@article{marin_bob,\n  title   = {{BOB}: {B}ayesian optimized bootstrap for approximate posterior sampling in {G}aussian mixture models},\n  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},\n  journal = {Statistics and Computing},\n  volume  = {36},\n  number  = {1},\n  pages   = {14},\n  year    = {2026},\n  doi     = {10.1007/s11222-025-10763-y}\n}"
   },
   {
     "objectID": "publications/citations/lasso_bnp_cite.html#adaptive-shrinkage-with-a-nonparametric-bayesian-lasso",
