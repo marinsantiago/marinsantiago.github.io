@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching 📝",
-    "section": "",
-    "text": "Teaching 📝\n\nCurrent Teaching\n\nAs Teaching Assistant\n\nSTAT7039: Principles of Mathematical Statistics. Graduate level course. Australian National University  [S1–2026]\n\n\n\n\nPrevious Teaching\n\nAs Teaching Assistant\n\nSTAT6016: Introduction to Bayesian Data Analysis. Graduate level course. Australian National University  [S2–2025]\nSTAT8140: Statistical Learning. Graduate level course. Australian National University  [S1–2025]\nSTAT3040: Statistical Learning. Undergraduate level course. Australian National University  [S1–2024]\nSTAT6030: Generalised Linear Models. Graduate level course. Australian National University  [S2–2023]\n\n\n\n\nMiscellaneous Teaching\n\nASA Datafest: Teaching Assistant for the American Statistical Association DataFest @ ANU  [S1–2023]"
+    "objectID": "index.html#santiago-marin",
+    "href": "index.html#santiago-marin",
+    "title": "About",
+    "section": "Santiago Marin",
+    "text": "Santiago Marin\n\n\n  Scholar    GitHub     ORCiD"
   },
   {
     "objectID": "misc.html",
     "href": "misc.html",
-    "title": "Miscellaneous 🗃️",
+    "title": "Miscellaneous ️🗂",
     "section": "",
-    "text": "Miscellaneous 🗃️\n\n\nMy Academic Travel Map ✈️\n\n\n\n\n\n\n\n\n\n\nNote: The above map pinpoints the places where I have participated in seminars, conferences, workshops, and other academic activities since beginning my PhD."
+    "text": "Miscellaneous ️🗂\n\n\nMy Academic Travel Map ✈️\n\n\n\n\n\n\n\n\n\n\nNote: The above map pinpoints the places where I have participated in seminars, conferences, workshops, and other academic activities since beginning my PhD."
   },
   {
     "objectID": "awards.html",
@@ -33,6 +33,13 @@
     "title": "Publications 📚",
     "section": "",
     "text": "Publications 📚\n\n\nPeer-reviewed Journal Articles\n\nAdaptive Shrinkage with a Nonparametric Bayesian Lasso  Marin, S., Loong, B. and Westveld, A. H. (2026+)  Journal of Computational and Graphical Statistics    article citation\nBOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models  Marin, S., Loong, B. and Westveld, A. H. (2026)  Statistics and Computing, 36(1), 14    article citation\n\n\n\nPreprints & Working Papers\n\nBayesian nonparametric modeling of dynamic pollution clusters through an autoregressive logistic-beta Stirling-gamma process  Marin, S., Loong, B. and Westveld, A. H. (2026+)  arXiv, 2601.04625  article citation"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching 📝",
+    "section": "",
+    "text": "Teaching 📝\n\nCurrent Teaching\n\nAs Teaching Assistant\n\nSTAT7039: Principles of Mathematical Statistics. Graduate level course. Australian National University  [S1–2026]\n\n\n\n\nPrevious Teaching\n\nAs Teaching Assistant\n\nSTAT6016: Introduction to Bayesian Data Analysis. Graduate level course. Australian National University  [S2–2025]\nSTAT8140: Statistical Learning. Graduate level course. Australian National University  [S1–2025]\nSTAT3040: Statistical Learning. Undergraduate level course. Australian National University  [S1–2024]\nSTAT6030: Generalised Linear Models. Graduate level course. Australian National University  [S2–2023]\n\n\n\n\nMiscellaneous Teaching\n\nASA Datafest: Teaching Assistant for the American Statistical Association DataFest @ ANU  [S1–2023]"
   },
   {
     "objectID": "talks.html",
@@ -61,12 +68,5 @@
     "title": "Software </> 💾",
     "section": "",
     "text": "Software &lt;/&gt; 💾\n\nR packages\nMost of my methods are available as R packages. This is a selection of them."
-  },
-  {
-    "objectID": "index.html#santiago-marin",
-    "href": "index.html#santiago-marin",
-    "title": "About",
-    "section": "Santiago Marin",
-    "text": "Santiago Marin\n\n\n  Scholar    GitHub     ORCiD"
   }
 ]
