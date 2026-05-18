@@ -1,5 +1,10 @@
 /* css styles */
 
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #FFF8EC;
+/*-- $link-color: #75AADB; --*/
+
 .circular--square { border-radius: 50%; }
 
 .centering h1 {
